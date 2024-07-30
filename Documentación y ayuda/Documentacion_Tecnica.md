@@ -27,15 +27,15 @@ Starlight consta de tres componentes principales:
 
 ## Configuración de la Base de Datos
 1. Dentro del package BD, copiar el script y pegarlo en Workbench, después ejecutar las querys para crear la BD.
-![workbrench](work.png)
+![workbrench](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/work.png)
 
 2. Dentro del package Conexion, editar la contraseña por la de su máquina.
-![Conexion](code.png)
+![Conexion](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/conexion.png)
 
 ## Capturas de Pantalla y Descripcion
 
-![Package BD](packbd.png)
+![Package BD](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/packbd.png)
 **Imagen:** Package BD
 
-![Package Starlight](packstar.png)
+![Package Starlight](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/packstar.png)
 **Imagen:** Package Starlight
