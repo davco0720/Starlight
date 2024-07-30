@@ -28,5 +28,8 @@ El desarrollo de este proyecto no hubiera sido posible sin la colaboración de:
 2. [Pablo Garcia](https://www.instagram.com/farfaxx9/)
 3. [David Cordón](https://www.instagram.com/davco____/)
 
-## Dudas, Comentarios o Sugerencias
+## Dudas
+- Consulte la documentación técnica o la de usuario, en caso de no resolver su duda, comuníquese con nosotros.
+
+## Comentarios y/o Sugerencias
    [Escríbenos](mailto:dudasjbfd@gmail.com?subject=Consulta&body=Hola,%20necesito%20más%20información%20sobre%20tu%20proyecto.)
