@@ -1,4 +1,4 @@
-# Manual Técnico - AVICAR
+# Manual Técnico - STARLIGHT
 
 ## Introducción
 Starlight es un videojuego que busca ofrecer una experiencia de entretenimiento única y divertida.
