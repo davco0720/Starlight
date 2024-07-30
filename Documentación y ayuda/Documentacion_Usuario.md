@@ -59,34 +59,32 @@ Starlight consiste en un videojuego plataformero con diseño de 64 bits.
 2. **Registro de nuevo usuario**: Complete el formulario de registro con los datos solicitados.
 
 ## Capturas de Pantalla y Descripción
-1. **Splash Screen**
+1. **Imagen:** Splash Screen
 ![Empresa](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/Empresa.png)
 
-2. **Progress Bar**
+2. **Imagen:** Progress Bar
 ![Progress](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/progress.png)
 
-3. **Pantalla Principal**
+3. **Imagen:** Pantalla Principal
 ![Principal](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/principal.png)
 
-4. **Crear Cuenta**
+4. **Imagen:** Crear Cuenta
 ![Crear Cuenta](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/crear.png)
 
-5. **Iniciar Sesión**
+5. **Imagen:** Iniciar Sesión
 ![Iniciar Sesion](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/iniciar.png)
 
-6. **Ventana de Ayuda (controles)**
+6. **Imagen:** Ventana de Ayuda (controles)
 ![Help](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/ayuda.png)
 
-7. **Ventana de Ayuda (tips)**
+7. **Imagen:** Ventana de Ayuda (tips)
 ![Help](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/tips.png)
 
-8. **Ventana de puntajes**
+8. **Imagnen:** Ventana de puntajes
 ![Ranking](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/top.png)
 
-9. **Filtar por nivel**
+9. **Imagen:** Filtar por nivel
 ![Ranking filtrado](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/top2.png)
 
-10. **Nivel 1**
+10. **Imagen:** Nivel 1
 ![Nivel 1](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_user/m1n1.png)
-
-```
