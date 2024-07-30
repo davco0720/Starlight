@@ -34,8 +34,11 @@ Starlight consta de tres componentes principales:
 
 ## Capturas de Pantalla y Descripcion
 
-![Package BD](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/packbd.png)
-**Imagen:** Package BD
+<div style="text-align: center;">
+    <img src="https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/packbd.png" alt="Package BD">
+    <br>
+    <strong>Imagen:</strong> Package BD
+</div>
 
 ![Package Starlight](https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/packstar.png)
 **Imagen:** Package Starlight
