@@ -13,11 +13,11 @@ Para ejecutar el juego, abre el proyecto en NetBeans y ejecuta la clase Main.
 ## Contribución
 Las contribuciones son bienvenidas. Para contribuir, sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una rama para tu función (git checkout -b feature/nueva-funcion).
-Haz commit de tus cambios (git commit -m 'Agrega nueva función').
-Haz push a la rama (git push origin feature/nueva-funcion).
-Abre un Pull Request.
+- Haz un fork del repositorio.
+- Crea una rama para tu función (git checkout -b feature/nueva-funcion).
+- Haz commit de tus cambios (git commit -m 'Agrega nueva función').
+- Haz push a la rama (git push origin feature/nueva-funcion).
+- Abre un Pull Request.
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
