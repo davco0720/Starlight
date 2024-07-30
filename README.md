@@ -4,11 +4,11 @@
 Para ejecutar el juego, abre el proyecto en NetBeans y ejecuta la clase Main.
 
 ## Controles del Juego
-Flechas del teclado: Mover al personaje.
-A,W,D: Mover al personaje.
-E: Pelear (Solo último nivel).
-Espacio: Saltar.
-Escape: Pausar el juego.
+- **Flechas del teclado:** Mover al personaje.
+- **A,W,D:** Mover al personaje.
+- **E:** Pelear (Solo último nivel).
+- **Espacio:** Saltar.
+- **Escape:** Pausar el juego.
 
 ## Contribución
 Las contribuciones son bienvenidas. Para contribuir, sigue estos pasos:
@@ -29,4 +29,4 @@ El desarrollo de este proyecto no hubiera sido posible sin la colaboración de:
 3. [David Cordón](https://www.instagram.com/davco____/)
 
 ## Dudas, Comentarios o Sugerencias
-   [Escríbenos](mailto:dudasjbfd@gmail.com?subject=Consulta&body=Hola, necesito más información sobre tu proyecto.)
+   [Escríbenos](mailto:dudasjbfd@gmail.com?subject=Consulta&body=Hola,%20necesito%20más%20información%20sobre%20tu%20proyecto.)
