@@ -26,7 +26,8 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 El desarrollo de este proyecto no hubiera sido posible sin la colaboración de:
 1. [Brandon Batres](https://www.instagram.com/l3ostrxnge_/)
 2. [Pablo Garcia](https://www.instagram.com/farfaxx9/)
-3. [David Cordón](https://www.instagram.com/davco____/)
+3. [Markus Mogollón](https://www.instagram.com/doritobased/)
+4. [David Cordón](https://www.instagram.com/davco____/)
 
 ## Dudas
 - Consulte la documentación técnica o la de usuario, en caso de no resolver su duda, comuníquese con nosotros.
