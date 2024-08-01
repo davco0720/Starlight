@@ -14,6 +14,20 @@ Starlight busca ofrecer una experiencia de entretenimiento única y divertida.
 ## Descripción de la Aplicación
 Starlight consiste en un videojuego plataformero con diseño de 64 bits.
 
+## Requisitos de Instalación
+### Requisitos Mínimos:
+- Procesador: Intel Core i3 o equivalente
+- Memoria RAM: 4 GB
+- Almacenamiento: 500 MB de espacio disponible
+- Resolución de Pantalla: 1280x720 píxeles
+
+### Requisitos Recomendados:
+- Procesador: Intel Core i5 o superior
+- Memoria RAM: 8 GB
+- Almacenamiento: 1 GB de espacio disponible
+- Tarjeta Gráfica: NVIDIA GeForce GTX 750 o superior
+- Resolución de Pantalla: 1920x1080 píxeles
+- 
 ## Crear Cuenta e Iniciar Sesión
 ### Inicio de Sesión
 - **Nombre de Usuario**
