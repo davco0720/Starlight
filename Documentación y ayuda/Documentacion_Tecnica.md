@@ -1,7 +1,7 @@
 # Manual Técnico - STARLIGHT
 
 ## Introducción
-Starlight es un videojuego que busca ofrecer una experiencia de entretenimiento única y divertida.
+Starlight es un videojuego que busca ofrecer una experiencia de entretenimiento única y divertida. <br>
 En este manual técnico encontrará información detallada sobre la arquitectura, tecnologías y configuraciones necesarias para implementar el videojuego.
 
 ## Arquitectura del Sistema
@@ -109,7 +109,7 @@ Starlight consta de tres componentes principales:
 - **Ampliación del Contenido del Juego:** Se sugiere desarrollar y añadir nuevos niveles, personajes y modos de juego para aumentar la duración del juego. Esto tiene como objetivo que el usuario disfrute e indague en todas las funcionalidades.
 <br>
 
-- **Mejora de la Interfaz de Usuario (UI):** La actualización de la interfaz gráfica puede hacer que el juego sea visualmente más atractivo. Un rediseño de interfaz centrado en el usuario puede mejorar la experiencia del juego.
+- **Mejora de la Interfaz de Usuario (UI):** La actualización de la interfaz gráfica puede hacer que el juego sea visualmente más atractivo. Un rediseño centrado en el usuario puede mejorar significativamente la experiencia del juego.
 <br>
 
 - **Implementación de Funcionalidades de Guardado y Carga:** Integrar funcionalidades para guardar y cargar partidas. Esto tiene como objetivo que los jugadores puedan retomar el juego desde el punto donde lo dejaron, mejorando así la comodidad del usuario.
