@@ -58,3 +58,38 @@ Starlight consta de tres componentes principales:
     <strong>Imagen:</strong> Package Starlight
 </div>
 
+##  Conclusiones y Recomendaciones
+### Conclusiones
+
+**Desempeño del Juego:** El juego ha demostrado un excelente rendimiento, haciendo uso de diversas librerías como el JDK 21 y la base de datos SQL. Sin embargo, existe un margen de optimización para mejorar aún más la experiencia del usuario.
+<br>
+
+**Compatibilidad y Usabilidad:** El juego ha sido diseñado para ser compatible con diversas configuraciones de hardware sin necesidad de conexión a internet. La implementación de MySQL y JDBC-5.1.49 permite una gestión de las puntuaciones del juego.
+<br>
+
+**Calidad Gráfica y de Interfaz:** A través del uso de Java Swing, el juego presenta una interfaz gráfica, aunque podrían implementarse diversas mejoras en el diseño y la estructuración.
+<br>
+
+**Escalabilidad:** El diseño del juego ha sido estructurado para ser compatible con futuras actualizaciones, permitiendo la incorporación de nuevos niveles, personajes y funcionalidades sin requerir una reescritura significativa del código base.
+<br>
+
+**Documentación Técnica:** La creación de un manual técnico y de usuario detallado son de suma importancia dentro y fuera del juego. Este manual proporciona una guía para futuros desarrolladores y garantiza una fácil ejecución del juego.
+<br>
+<br>
+
+### Recomendaciones
+
+**Optimización de Recursos y Rendimiento:** Se recomienda realizar pruebas exhaustivas del rendimiento del juego para identificar posibles errores y optimizar el uso de los recursos. 
+<br>
+
+**Ampliación del Contenido del Juego:** Se sugiere desarrollar y añadir nuevos niveles, personajes y modos de juego para aumentar la duración del juego. Esto tiene como objetivo que el usuario disfrute e indague en todas las funcionalidades.
+<br>
+
+**Mejora de la Interfaz de Usuario (UI):** La actualización de la interfaz gráfica puede hacer que el juego sea visualmente más atractivo. Un rediseño de interfaz centrado en el usuario puede mejorar la experiencia del juego.
+<br>
+
+**Implementación de Funcionalidades de Guardado y Carga:** Integrar funcionalidades para guardar y cargar partidas. Esto tiene como objetivo que los jugadores puedan retomar el juego desde el punto donde lo dejaron, mejorando así la comodidad del usuario.
+<br>
+
+**Pruebas y Opiniones de Usuarios:** Es necesario realizar pruebas exhaustivas con un grupo diverso de usuarios para recoger opiniones y detectar posibles errores o áreas de mejora. Las pruebas de usabilidad y la incorporación de las sugerencias de los jugadores pueden llevar a un producto final más pulido y satisfactorio.
+
