@@ -15,6 +15,30 @@ Starlight consta de tres componentes principales:
 3. **Gestión de Datos**: MySQL
 4. **Control de Versiones**: Git
 
+### Requisitos Mínimos:
+- Procesador: Intel Core i3 o equivalente
+- Memoria RAM: 4 GB
+- Almacenamiento: 500 MB de espacio disponible
+- Resolución de Pantalla: 1280x720 píxeles
+
+### Requisitos Recomendados:
+- Procesador: Intel Core i5 o superior
+- Memoria RAM: 8 GB
+- Almacenamiento: 1 GB de espacio disponible
+- Tarjeta Gráfica: NVIDIA GeForce GTX 750 o superior
+- Resolución de Pantalla: 1920x1080 píxeles
+
+### Dependencias y Herramientas de Desarrollo
+- Entorno de Desarrollo Integrado (IDE): IntelliJ IDEA, Eclipse, o NetBeans (solo para desarrollo)
+- Control de Versiones: Git (solo para desarrollo)
+- Herramientas de Compilación: Ant
+- Sistemas de Gestión de Bases de Datos: SQL (MySQL)
+
+### Base de Datos
+- Sistema de Gestión de Bases de Datos (SGDB): SQL
+- Requisitos de Almacenamiento: Espacio suficiente en disco para la base de datos (dependiendo DE LA cantidad de datos que se manejen)
+
+
 ## Implementación del Backend
 ### Configuración del Entorno
 1. Instalar JDK 21.
