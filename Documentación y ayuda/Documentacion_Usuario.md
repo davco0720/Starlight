@@ -2,7 +2,7 @@
 # Manual de Usuario - STARLIGHT
 
 ## Introducción
-Starlight busca ofrecer una experiencia de entretenimiento única y divertida. 
+Starlight busca ofrecer una experiencia de entretenimiento única y divertida, llevando a los jugadores a través de un mundo de plataformas con desafíos y aventuras emocionantes.
 
 ## Objetivos
 - Desarrollar un Entorno Dinámico.
@@ -12,7 +12,7 @@ Starlight busca ofrecer una experiencia de entretenimiento única y divertida.
 - Crear una historia llamativa.
 
 ## Descripción de la Aplicación
-Starlight consiste en un videojuego plataformero con diseño de 64 bits.
+Starlight es un videojuego de plataformas con diseño de gráficos en 64 bits, proporcionando una experiencia visual nostálgica y desafiante.
 
 ## Requisitos de Instalación
 ### Requisitos Mínimos:
@@ -30,10 +30,12 @@ Starlight consiste en un videojuego plataformero con diseño de 64 bits.
   
 ## Crear Cuenta e Iniciar Sesión
 ### Inicio de Sesión
+Para iniciar sesión, el usuario debe ingresar su:
 - **Nombre de Usuario**
 - **Contraseña**
 
 ### Creación de Cuenta
+Para crear una cuenta nueva, el usuario debe proporcionar la siguiente información:
 - **Nombre de usuario**
 - **Correo electrónico**
 - **Contraseña**
