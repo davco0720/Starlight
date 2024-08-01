@@ -36,7 +36,7 @@ Starlight consta de tres componentes principales:
 
 ### Base de Datos
 - Sistema de Gestión de Bases de Datos (SGDB): SQL
-- Requisitos de Almacenamiento: Espacio suficiente en disco para la base de datos (dependiendo DE LA cantidad de datos que se manejen)
+- Requisitos de Almacenamiento: Espacio suficiente en disco para la base de datos (dependiendo de la cantidad de datos que se manejen)
 
 
 ## Implementación del Backend
