@@ -27,7 +27,7 @@ Starlight consiste en un videojuego plataformero con diseño de 64 bits.
 - Almacenamiento: 1 GB de espacio disponible
 - Tarjeta Gráfica: NVIDIA GeForce GTX 750 o superior
 - Resolución de Pantalla: 1920x1080 píxeles
-- 
+  
 ## Crear Cuenta e Iniciar Sesión
 ### Inicio de Sesión
 - **Nombre de Usuario**
